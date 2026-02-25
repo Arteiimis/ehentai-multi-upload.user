@@ -16,7 +16,7 @@
 
   const START_TEXT = 'Start Upload'
   const UPLOADING_TEXT = 'Uploading...'
-  const PER_FILE_DELAY_MS = 2000
+  const PER_FILE_DELAY_MS = 1000
 
   let queue = []
   let uploading = false
