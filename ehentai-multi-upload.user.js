@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         E-Hentai Multi Upload Queue
 // @namespace    https://upload.e-hentai.org/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Select multiple files and upload sequentially.
 // @match        https://upload.e-hentai.org/managegallery*
 // @author       Arteiimis
