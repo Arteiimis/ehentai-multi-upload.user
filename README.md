@@ -13,7 +13,7 @@ A Tampermonkey userscript that adds a multi-select upload button to E-Hentai's u
 ## Install
 
 1. Install a userscript manager such as Tampermonkey or Violentmonkey.
-2. Open the script page on GreasyFork.
+2. Open the script page on GreasyFork: [https://greasyfork.org/zh-CN/scripts/567407-e-hentai-multi-upload-queue](https://greasyfork.org/zh-CN/scripts/567407-e-hentai-multi-upload-queue)
 3. Click the Install button and confirm.
 
 ## Usage

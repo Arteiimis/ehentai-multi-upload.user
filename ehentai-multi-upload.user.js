@@ -4,6 +4,10 @@
 // @version      0.1.0
 // @description  Select multiple files and upload sequentially.
 // @match        https://upload.e-hentai.org/managegallery*
+// @author       Arteiimis
+// @license      MIT
+// @homepageURL  https://github.com/Arteiimis/ehentai-multi-upload.user
+// @supportURL   https://github.com/Arteiimis/ehentai-multi-upload.user/issues
 // @grant        none
 // ==/UserScript==
 
